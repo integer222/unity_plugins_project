@@ -1,0 +1,16 @@
+{
+    "name": "plugin.pt.mobile.ads",
+    "rootNamespace": "Plugins",
+    "references": [
+        "GUID:fe72019a529a4be4fb250b8952de331b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
